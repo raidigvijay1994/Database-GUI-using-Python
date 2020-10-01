@@ -8,7 +8,7 @@ root.title('Creating Database GUI using Python')
 
 # Databases
 
-# Create a database or connect to one
+# Create a database or connect to one.
 
 conn = sqlite3.connect('address_book.db')
 

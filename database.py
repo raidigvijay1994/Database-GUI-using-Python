@@ -6,7 +6,7 @@ root = Tk()
 root.title('Creating Database GUI using Python')
 
 
-# Databases
+# Database
 
 # Create a database or connect to one
 

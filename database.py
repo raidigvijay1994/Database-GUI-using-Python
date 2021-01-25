@@ -28,7 +28,7 @@ c.execute(""" CREATE TABLE addresses (
 )""")
 '''
 
-# Create Submit function for database
+# Create Submit function for database.
 def submit():
         # Create a database or connect to one
 
